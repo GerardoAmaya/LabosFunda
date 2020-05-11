@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <conio.h>
 
-main()
+int main()
 {
 
 float num1, num2, num3, resultado;
