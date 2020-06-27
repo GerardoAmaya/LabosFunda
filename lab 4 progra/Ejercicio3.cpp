@@ -36,5 +36,7 @@ if (notafinal >= 6){
 }else
 	cout<<"El alumno ha reprobado la materia.\n";
 	}
-    system("pause");
+return 0;
+
+
 }
